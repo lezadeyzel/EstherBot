@@ -1,7 +1,7 @@
 {
     "BOT": "Hi there!\nType hi to get started",
     "HELLO": "Hi, I'm so glad you came here\nWant to have a conversation about your career? %[Yes](postback:yes) %[No](postback:no) %[Tell me more...](postback:more)",
-    "YES": "Ok - what career problem are you currently having?",%[I do not know](postback:notknow) %[I need to study, but I don't know what](postback:what)",
+    "YES": "Ok - what career problem are you currently having? %[I do not know](postback:notknow) %[I need to study, but I don't know what](postback:what)",
     "NO": "Sorry to hear that - are you sure?",
     "MORE": "What would you like to know more about?",
     "CONNECT ME": "",
