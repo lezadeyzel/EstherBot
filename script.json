@@ -1,9 +1,9 @@
 {
     "BOT": "Hi there!\nType hi to get started",
-    "HELLO": "Hi, I'm so glad you came here\nWant to have a conversation about your career?" %[Yes](postback:yes) %[No](postback:no) %[Tell me more about this](postback:learn more),
+    "HELLO": "Hi, I'm so glad you came here\nWant to have a conversation about your career? %[Yes](postback:yes) %[No](postback:no) %[Tell me more...](postback:learn_more)",
     "YES": "Ok - what career problem are you currently having?",
     "NO": "Sorry to hear that - are you sure?",
-    "LEARN MORE": "What would you like to know more about?",
+    "LEARN_MORE": "What would you like to know more about?",
     "CONNECT ME": "",
     "DISCONNECT": "No problem."
 }
