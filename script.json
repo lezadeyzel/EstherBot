@@ -1,7 +1,7 @@
 {
     "BOT": "Hi there!\nType hi to get started",
     "HELLO": "Hi, I'm so glad you came here\nWant to have a conversation about your career? %[Yes - let's chat](postback:yes) %[No, not now](postback:no) %[Tell me more](postback:no)",
-    "TELL ME MORE": "This chat is to help you talk through a career problem you are experiencing. You can read more about this bot on our website at(http://www.unisa.ac.za/counselling)",
+    "TELL ME MORE": "This chat is to help you talk through a career problem you are experiencing. You can read more about this bot on our website at[DCCD](http://www.unisa.ac.za/counselling)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "YES - LET'S CHAT": "Ok - what career problem are you currently having? %[I do not know](postback:notknow) %[I need to study, but I don't know what](postback:what)",
     "I DO NOT KNOW": "You don't know?",
