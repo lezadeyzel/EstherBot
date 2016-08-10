@@ -1,6 +1,6 @@
 {
     "BOT": "Hi there!\nWant to have a conversation about your career? %[Yes](postback:yes) %[No](postback:no) %[First tell me more about this](postback:learn_more)",
     "HELLO": "Hey, I'm so glad you came here\nWhat's your name?"
-    "CONNECT ME": "",
+    "CONNECT ME": ""
     "DISCONNECT": "No problem."
 }
