@@ -1,8 +1,11 @@
 {
     "BOT": "Hi there!\nType hi to get started",
-    "HELLO": "Hi, I'm so glad you came here\nWant to have a conversation about your career? %[Yes](postback:yes) %[No](postback:no) %[Tell me more...](postback:more)",
+    "HELLO": "Hi, I'm so glad you came here\nWant to have a conversation about your career? %[Yes](postback:yes) %[No](postback:no)",
+    "HI": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
+    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "I LOVE YOU": "Awh, shucks! I love you too!",
     "YES": "Ok - what career problem are you currently having? %[I do not know](postback:notknow) %[I need to study, but I don't know what](postback:what)",
-    "NO": "Sorry to hear that - are you sure?",
+    "NO": "Sorry to hear that - are you sure?"%[Yes](postback:yes) %[No](postback:no)",
     "MORE": "What would you like to know more about?",
     "CONNECT ME": "",
     "DISCONNECT": "No problem."
